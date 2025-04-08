@@ -21,7 +21,7 @@
 ## 😎 Fun Bits
 
 - 📫 **Reach Me**
-  - Telegram: [@TheSnowballBot](https://t.me/TheSnowballBot)
+  - Telegram: [@SnowballOfficial](https://t.me/Snowball_Official)
   - GitHub: [@Snowball-01](https://github.com/Snowball-01)
 
 - 😄 **Pronouns**: `He / Him`
