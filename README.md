@@ -6,11 +6,28 @@
 
 ---
 
-## 🔥 About Me
+## 🧠 About Me
 
-- 🎯 Passionate about automation, Python & scaling cool ideas.
-- 🚀 Building bots and tools to make lives easier.
-- 🧠 Lifelong learner and contributor in the open-source space.
+<div align="center">
+
+| 👀 Interests | 🌱 Currently Learning | 🤝 Looking to Collaborate On |
+|--------------|-----------------------|-------------------------------|
+| Python 🐍, Telegram Bots 🤖, Web Dev 🌐 | FastAPI ⚡, MongoDB 🗃️, Advanced Git & DevOps 🚀 | Open Source Telegram Bots, Cool automation tools, Web-based SaaS platforms |
+
+</div>
+
+---
+
+## 😎 Fun Bits
+
+- 📫 **Reach Me**
+  - Telegram: [@TheSnowballBot](https://t.me/TheSnowballBot)
+  - GitHub: [@Snowball-01](https://github.com/Snowball-01)
+
+- 😄 **Pronouns**: `He / Him`
+
+- ⚡ **Fun Fact**:
+  > *"I make bots that are more active than my social life!"*
 
 ---
 
@@ -52,7 +69,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 Socials
 
 <p align="center">
   <a href="https://t.me/TheSnowballBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
