@@ -1,118 +1,93 @@
-<div align="center">
+<h1 align="center">❄️ Hey there! 👋 I'm <span style="color:#58A6FF;">Snowball-01</span></h1>
 
-<!-- Header Banner -->
-
-<img src="https://www.google.com/search?q=https://i.imgur.com/g79r8hS.gif" alt="Header Banner" width="100%"/>
-
-<!-- Typing SVG -->
-
-<h1>Hey there! <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Snowball-01</h1>
-<p>
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DTech%2BExplorer%2B%25F0%259F%259A%2580%3BOpen%2BSource%2BContributor%2B%25E2%259D%25A4%25EF%25B8%258F%3BTelegram%2BBot%2BWizard%2B%25F0%259F%25A7%2591%25E2%2580%258D%25E2%259A%2594%25EF%25B8%258F%3BMaking%2BBots%2BCool%2BAgain%2B%25F0%259F%2594%25A5" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Tech+Explorer;❤️+Open+Source+Contributor;🧙‍♂️+Telegram+Bot+Wizard;🔥+Making+Bots+Cool+Again" alt="Typing SVG" />
 </p>
 
-<!-- Fun Fact -->
+---
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## 🧠 About Me
 
+<div align="center">
 
-
-
-
-<b><i>"I build bots that are more active than my social life!"</i></b>
-
-
-
-
-
-
-<!-- Socials -->
-
-<a href="https://t.me/TheSnowballBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
-<a href="https://github.com/Snowball-01"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-<a href="https://t.me/Snowball_Official"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Telegram-Contact-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram" /></a>
+| 👀 Interests | 🌱 Currently Learning | 🤝 Looking to Collaborate On |
+|--------------|-----------------------|-------------------------------|
+| 🐍 Python, 🤖 Telegram Bots, 🌐 Web Dev | ⚡ FastAPI, 🗃️ MongoDB, 🚀 Git & DevOps | Open Source Bots, SaaS Tools, Automation |
 
 </div>
 
-<p align="center">🚀 About Me 🚀</p>
-<table align="center" width="80%">
-<tr>
-<td align="center">
-<h3>👀 Interests</h3>
-<p>Python 🐍, Telegram Bots 🤖, Web Dev 🌐, Automation Scripts ⚙️</p>
-</td>
-<td align="center">
-<h3>🌱 Currently Learning</h3>
-<p>FastAPI ⚡, MongoDB 🗃️, Advanced Git & DevOps 🚀, System Design 🏗️</p>
-</td>
-<td align="center">
-<h3>🤝 Looking to Collaborate On</h3>
-<p>Open Source Telegram Bots, Cool automation tools, Web-based SaaS platforms</p>
-</td>
-</tr>
-</table>
+---
 
-<p align="center">🛠️ My Tech Stack 🛠️</p>
+## ✨ Fun Bits
+
+- 📫 **Reach Me**
+  - 📩 Telegram: [@SnowballOfficial](https://t.me/Snowball_Official)
+  - 🐙 GitHub: [@Snowball-01](https://github.com/Snowball-01)
+
+- 😄 **Pronouns**: `He / Him`
+
+- ⚡ **Fun Fact**:
+  > *"My bots are more active than my social life!"* 🤖💬
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-<b>Languages & Frameworks</b>
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,fastapi,html,css,js,typescript,react,nextjs,tailwindcss,bootstrap" alt="Languages & Frameworks" />
-
-
-
-
-
-
-<b>Databases & DevOps</b>
-
-
-
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,docker,git,github,heroku,linux,vscode" alt="Databases & DevOps" />
-
-
-
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,react,nextjs,tailwindcss,bootstrap&perline=7" />
 </p>
 
-<p align="center">📊 My GitHub Stats 📊</p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Snowball-01&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Snowball-01&theme=radical&hide_border=true&border_radius=12" width="48%" alt="GitHub Streak" />
-
-
-
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowball-01&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snowball-01&theme=radical&utcOffset=+5.5" width="48%" alt="Productive Time" />
-</div>
-
-<p align="center">🏆 GitHub Trophy Wall 🏆</p>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DSnowball-01%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D15%26column%3D7" alt="GitHub Trophies" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?names=python,fastapi,mongodb,react,nextjs,tailwindcss&includeNames=true&theme=radical" />
 </p>
 
-<p align="center">🐍 My Contribution Graph 🐍</p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Snowball-01/Snowball-01/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
-</p>
-<p align="center"><i>I've got a snake in my contributions!</i></p>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSnowball-01%26label%3DProfile%2BViews%26color%3D0e75b6%26style%3Dfor-the-badge" alt="Profile Views" />
-
-
-
-
-
-
-
-<p><b>Made with ❤️ and a lot of ☕ by Snowball-01</b></p>
-<img src="https://www.google.com/search?q=https://i.imgur.com/sC5I5dD.gif" alt="Footer Line" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snowball-01&show_icons=true&theme=radical&hide_border=true&border_radius=20&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snowball-01&theme=radical&hide_border=true&border_radius=20" width="48%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowball-01&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snowball-01&theme=radical&utcOffset=+5.5" width="48%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Snowball-01&theme=radical&no-frame=true&margin-w=10&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snowball-01&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20Snowball-01%20Contribution%20Graph" />
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://t.me/TheSnowballBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://github.com/Snowball-01"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snowball-01&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<h3 align="center">✨ Made with ❤️ & a lot of ☕ by <span style="color:#58A6FF">Snowball-01</span> ✨</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.gif" width="100%" />
+</p>
