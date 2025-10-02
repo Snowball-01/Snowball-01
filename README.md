@@ -37,10 +37,6 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,react,nextjs,tailwindcss,bootstrap&perline=7" />
 </p>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?names=python,fastapi,mongodb,react,nextjs,tailwindcss&includeNames=true&theme=radical" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
